@@ -3,7 +3,7 @@
 ||PERIOD|HOW TO|
 |---------|-----------|--------|
 |Progra mmers|Once a day|After solving it for an hour every day & solving it in various ways, update the optimal method.|
-|Theory|3 days|Upload a brief summary of the theories related to the codes you solved for 3 days. // If not, review the codes.
+|Theory|3 days|Upload a brief summary of the theories related to the codes you solved for 3 days. // If not, review the codes.|
 |etc|||
 
 ## Branches
